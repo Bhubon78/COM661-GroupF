@@ -1,0 +1,24 @@
+[
+    {
+        "name": "biz1",
+        "town": "Worthing",
+        "rating": 4,
+        "reviews": [
+            {
+                "username": "user9",
+                "comments": "Excellent product",
+                "stars": 5
+            },
+            {
+                "username": "user9",
+                "comments": "Rude staff",
+                "stars": 3
+            },
+            {
+                "username": "user5",
+                "comments": "Friendly staff",
+                "stars": 3
+            }
+        ]
+    }
+]
